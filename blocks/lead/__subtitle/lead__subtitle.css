@@ -4,6 +4,7 @@
   font-weight: 400;
   font-size: 30px;
   line-height: 36px;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
   color: #FFF;
   margin: 32px 0 0 0;
 }
@@ -21,5 +22,6 @@
     width: 288px;
     font-size: 16px;
     line-height: 20px;
+    margin-top: 16px;
   }
 }

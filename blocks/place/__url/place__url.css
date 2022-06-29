@@ -1,0 +1,21 @@
+.place__url {
+  text-transform: uppercase;
+  max-width: 456px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  color: #aaaaaa;
+  text-decoration: none;
+  margin: 0;
+  margin-bottom: 12px;
+}
+
+@media screen and (max-width: 320px) {
+  .place__url {
+    max-width: 288px;
+    margin: 0 auto;
+    margin-bottom: 12px;
+
+  }
+}
