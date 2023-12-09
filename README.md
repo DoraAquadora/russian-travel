@@ -13,7 +13,10 @@ Git
 Figma
 
 ### Инструкция по установке:
+```
 git clone git@github.com:DoraAquadora/russian-travel.git
+
+``` 
 Запустите локальный сервер разработки с функцией перезагрузки в реальном времени для статических и динамических страниц
 
 ### Будущая доработка проекта будет включать в себя:
@@ -22,7 +25,7 @@ git clone git@github.com:DoraAquadora/russian-travel.git
 Реализация функционала смены языка страницы
 
 ### Ссылка на макет 
-[https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A634](Макет в Figma)
+[Макет в "Figma"](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=62863%3A634)
 
 **Ссылка на проект**
 https://doraaquadora.github.io/russian-travel/
