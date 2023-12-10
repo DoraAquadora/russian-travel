@@ -4,13 +4,13 @@
 В проектной работе была применена работа с макетом в Figma, построение сложных сеток, разширенные возможности HTML и CSS, а так же  реализация адаптивной вёрстки посредством Flexbox, Grid Layout и Media queries.
 
 ### Технологии
-Flexbox
-Grid Layout
-Positioning Elements
-BEM Methodology
-File Structure and File Paths (Nested BEM)
-Git
-Figma
+* Flexbox
+* Grid Layout
+* Positioning Elements
+* BEM Methodology
+* File Structure and File Paths (Nested BEM)
+* Git
+* Figma
 
 ### Инструкция по установке:
 ```
